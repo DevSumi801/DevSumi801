@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> Hello ,this is Developer Sumi Begum</h1>
+<h1 align="center"> Hello! this is Developer Sumi Begum</h1>
 <h2 align="center">A Professional Web designer,Web Developer & WordPress Expert</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsumi801&label=Profile%20views&color=0e75b6&style=flat" alt="devsumi801" /> </p>
